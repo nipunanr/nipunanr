@@ -11,9 +11,7 @@
 <a href="https://fb.com/nipunanr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.mislholdings.com"><img src="https://img.shields.io/badge/MISL-00ABC9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MISL website"/></a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nipunanr&label=Profile%20views&color=00ABC9&style=flat-square" alt="Profile views"/>
+<br/><br/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -51,10 +49,9 @@
 ## GitHub Stats
 
 <div align="center">
-<a href="https://github.com/nipunanr"><img height="170" src="https://github-readme-stats.vercel.app/api?username=nipunanr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050d1f&title_color=00ABC9&icon_color=00ABC9" alt="GitHub stats"/></a>
-<a href="https://github.com/nipunanr"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunanr&layout=compact&theme=tokyonight&hide_border=true&bg_color=050d1f&title_color=00ABC9" alt="Top languages"/></a>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunanr&theme=tokyonight&hide_border=true&background=050d1f&ring=00ABC9&fire=00ABC9&currStreakLabel=00ABC9" alt="GitHub streak"/>
+<img src="./assets/generated/stats.svg" width="49%" alt="GitHub stats"/>
+<img src="./assets/generated/languages.svg" width="49%" alt="Top languages"/>
+<img src="./assets/generated/streak.svg" width="98%" alt="Contribution streak"/>
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
@@ -72,7 +69,7 @@
 ## Trophies
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunanr&theme=algolia&column=7&margin-w=10" alt="GitHub trophies"/></a>
+<img src="./assets/generated/trophies.svg" width="100%" alt="GitHub trophies"/>
 </div>
 
 <div align="center"><br/><sub>Built with love, coffee and a lot of commits.</sub></div>
