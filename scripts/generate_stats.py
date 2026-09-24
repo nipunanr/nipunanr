@@ -132,11 +132,11 @@ def trophies_card(d):
         col = TIERS[lvl - 1][1] if lvl else "#3a4a6b"
         tier = TIERS[lvl - 1][0] if lvl else "Locked"
         cx = 60 + i * 130
-        b += (f'<g class="fade" style="animation-delay:{i*.12:.2f}s" transform="translate({cx},0)">'
+        b += (f'<g transform="translate({cx},0)"><g class="fade" style="animation-delay:{i*.12:.2f}s">'
               f'<g transform="translate(0,58)" fill="none" stroke="{col}" stroke-width="4" stroke-linecap="round">'
               f'<path d="M-16 -24h32v14a16 16 0 0 1-32 0z" fill="{col}" fill-opacity=".2"/><path d="M-16 -18h-8a8 8 0 0 0 8 14M16 -18h8a8 8 0 0 1-8 14M0 6v12M-10 20h20"/></g>'
               f'<text y="98" font-size="13" font-weight="700" fill="{TXT}" text-anchor="middle" {FONT}>{label}</text>'
-              f'<text y="116" font-size="12" fill="{col}" text-anchor="middle" {FONT}>{tier} - {fmt(val)}</text></g>')
+              f'<text y="116" font-size="12" fill="{col}" text-anchor="middle" {FONT}>{tier} - {fmt(val)}</text></g></g>')
     return svg(900, 140, b, "GitHub trophies")
 
 def placeholder():
