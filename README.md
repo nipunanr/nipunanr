@@ -69,7 +69,7 @@
 ## Trophies
 
 <div align="center">
-<img src="./assets/generated/trophies.svg" width="100%" alt="GitHub trophies"/>
+<img src="https://raw.githubusercontent.com/nipunanr/nipunanr/refs/heads/main/assets/generated/trophies.svg" width="100%" alt="GitHub trophies"/>
 </div>
 
 <div align="center"><br/><sub>Built with love, coffee and a lot of commits.</sub></div>
