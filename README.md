@@ -1,84 +1,78 @@
-<h1 align="center">Nipuna Rangika</h1>
-<h3 align="center">Assistant Manager - Solutions @ MISL</h3>
+<div align="center">
 
----
+<img src="./assets/hero.svg" alt="Nipuna Rangika - Assistant Manager, Solutions @ MISL" width="100%"/>
 
-## 🌐 Connect with Me
+<br/>
 
-<p align="left">
-  <a href="https://twitter.com/nipunanr" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nipunanr?logo=twitter&style=for-the-badge" alt="nipunanr"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/nipunanr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/nipunanr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.youtube.com/c/nipunanr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://instagram.com/nipunanr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://fb.com/nipunanr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.mislholdings.com"><img src="https://img.shields.io/badge/MISL-00ABC9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MISL website"/></a>
 
-<p align="left">
-  <a href="https://twitter.com/nipunanr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/nipunanr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/nipunanr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/nipunanr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/c/nipunanr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-  </a>
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=nipunanr&label=Profile%20views&color=00ABC9&style=flat-square" alt="Profile views"/>
 
-## 💼 About Me
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-🚀 A results-driven tech leader with a strong focus on solution architecture, backend development, and full-stack delivery.  
-💡 Passionate about system integration, automation, and scalable web and mobile application design.  
-🎯 Currently leading solution implementation efforts and driving innovation at MISL.
+</div>
 
----
+## About Me
 
-## 🛠️ Tech Stack & Tools
+- Tech leader focused on **solution architecture**, **backend development** and **full-stack delivery**
+- Passionate about **system integration**, **automation** and **scalable web and mobile applications**
+- Currently leading solution implementation and driving innovation at **MISL**
 
-<p align="left">
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-</p>
+<details>
+<summary><b>Click to see what I focus on</b></summary>
+<br/>
 
----
+| Focus | What it means |
+|---|---|
+| Solution architecture | Turning business needs into clean, scalable system designs |
+| Backend and full-stack | APIs, databases and front-ends delivered end to end |
+| Integration and automation | Connecting systems and removing manual work |
+| Web and mobile | Flutter, React and Android applications |
 
-## 🏆 GitHub Trophies
+</details>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nipunanr&theme=algolia&column=7"/>
-  </a>
-</p>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
----
+## Tech Stack
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="./assets/skills.svg" width="100%" alt="Flutter, React, Node.js, Express, Python, Frappe, ERPNext, MySQL, MongoDB, SQL Server, Firebase, AWS, Android, Git, Postman, Figma"/>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nipunanr&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipunanr&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
+## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunanr" alt="GitHub Streak"/>
-</p>
+<div align="center">
+<a href="https://github.com/nipunanr"><img height="170" src="https://github-readme-stats.vercel.app/api?username=nipunanr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050d1f&title_color=00ABC9&icon_color=00ABC9" alt="GitHub stats"/></a>
+<a href="https://github.com/nipunanr"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunanr&layout=compact&theme=tokyonight&hide_border=true&bg_color=050d1f&title_color=00ABC9" alt="Top languages"/></a>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunanr&theme=tokyonight&hide_border=true&background=050d1f&ring=00ABC9&fire=00ABC9&currStreakLabel=00ABC9" alt="GitHub streak"/>
+</div>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipunanr/nipunanr/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nipunanr/nipunanr/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nipunanr/nipunanr/output/github-snake-dark.svg" width="100%"/>
+</picture>
+</div>
+
+## Trophies
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunanr&theme=algolia&column=7&margin-w=10" alt="GitHub trophies"/></a>
+</div>
+
+<div align="center"><br/><sub>Built with love, coffee and a lot of commits.</sub></div>
